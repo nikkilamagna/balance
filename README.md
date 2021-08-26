@@ -1,3 +1,2 @@
 # balance
-A frontend for ledger
-Let's make a little change here, k?
+A frontend for ledger, built in Svelte.
